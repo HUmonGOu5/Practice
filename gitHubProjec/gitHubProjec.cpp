@@ -4,6 +4,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "yes king\n";
+    std::cout << "no king\n";
 }
 
